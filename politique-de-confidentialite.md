@@ -53,4 +53,4 @@ les prix en magasin ou sur le site de l'enseigne font foi.
 
 ## Contact
 
-Pour toute question : [ton adresse e-mail de contact]
+Pour toute question : micberthouzoz@gmail.com
