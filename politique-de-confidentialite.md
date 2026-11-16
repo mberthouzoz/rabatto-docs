@@ -24,7 +24,8 @@ quand tu désinstalles l'application ou effaces ses données dans les réglages 
 ## Connexions réseau
 
 Pour obtenir les actions, l'application se connecte directement aux sites publics des enseignes
-(par exemple aligro.ch, denner.ch, lidl.ch, ikea.com, landi.ch, web.transgourmet.ch). Comme pour
+(par exemple aligro.ch, denner.ch, lidl.ch, ikea.com, landi.ch, web.transgourmet.ch, qoqa.ch, et
+api.sherpaoutdoor.com pour Otto's). Comme pour
 toute visite d'un site web, ces sites reçoivent l'adresse IP de ton appareil. Aucune information
 sur tes suivis ou ta liste de courses n'est transmise : l'application télécharge les listes
 d'actions complètes et fait la recherche sur ton téléphone.
@@ -53,4 +54,4 @@ les prix en magasin ou sur le site de l'enseigne font foi.
 
 ## Contact
 
-Pour toute question : micberthouzoz@gmail.com
+Pour toute question : [ton adresse e-mail de contact]
